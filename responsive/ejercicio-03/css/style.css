@@ -1,0 +1,32 @@
+.cuadro{
+	background-color: red; /* color de fondo rojo*/
+	width: 100px; /* ancho de 100px */
+	height: 100px; /* alto de 100px*/
+	margin-left: auto; /* para centrar  */
+	margin-right: auto; /* para centrar */
+}
+
+@media screen and (min-width: 540px){
+	.cuadro{
+		margin-right: 0; /* margen derecho 0 */
+	}
+}
+
+
+@media screen and (min-width: 1025px){
+	.cuadro{
+		margin-right: auto;
+		margin-left: 0;       
+	}
+
+}  
+	
+
+
+ 
+    
+   
+
+    
+       
+    

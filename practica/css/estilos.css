@@ -1,0 +1,45 @@
+.pagina{
+	width: 800px;
+	margin: 0 auto;
+	background-color: #CCC;
+	border-radius: 10px;
+	border:solid;:10px;
+
+	
+	
+}
+
+.header__brand{
+ display: inline-block;
+ 
+	
+}
+
+.header__navigation{
+	display: inline-block;
+	text-decoration:none;
+
+
+}
+
+.body{
+	border-radius: 10px;
+	border:solid:10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

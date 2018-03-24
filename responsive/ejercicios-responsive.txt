@@ -1,0 +1,32 @@
+1.- Crear una carpeta responsive
+
+2.- Crear una carpeta ejercicio-01 dentro de la carpeta responsive.
+	2.1 Crear el index.html y su respectivo style.css
+	2.2 El fondo del body debe ser de color rojo
+	2.3 Si la pantalla es mayor a 380px el color de fondo del body cambia a amarillo
+	2.4 Si la pantalla es mayor a 540px el color de fondo del body cambia a azul
+	2.5 Si la pantalla es mayor a 767px el color de fondo del body cambia a blanco
+
+3.- Crear una carpeta ejercicio-02 dentro de la carpeta responsive.
+	3.1 Crear el index.html y su respectivo style.css
+	3.2 Añadir dentro del body 10 párrafos.
+	3.3 El tamaño de los párrafos debe ser de 20px.
+	3.4 Si la pantalla es mayor a 767px el tamaño de los párrafos cambia a 16px.
+
+4.- Crear una carpeta ejercicio-03 dentro de la carpeta responsive
+	4.1 Crear el index.html y su respectivo style.css
+	4.2 Crear una div de color de fondo rojo y tamaño 100px de alto y 100px de ancho.
+	4.4 El div debe estar centrado dentro del body.
+	4.5 Si la pantalla es mayor a 539px el div debe estar al lado derecho del body.
+	4.6 Si la pantalla es mayor a 1024px el div debe estar al lado izquierdo del body.
+
+
+5.- Crear una carpeta ejercicio-04 dentro de la carpeta responsive.
+	5.1 Crear el index.html y su respectivo style.css
+	5.2 Crear una carita con divs que sea de color verde el fondo.
+	5.3 Centrar la carita dentro del body.
+	5.4 Si la pantalla es mayor a 540px el color de la carita cambia a naranja.
+	68
+	5.6 Los ojos de la carita deben ser rectangulares.
+	5.6 Si la pantalla es mayor a 1024px los ojos de la carita deben ser redondos.
+

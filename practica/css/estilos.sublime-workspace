@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"border-colo",
+				"border-right-color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"chor",
+				"chor"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"f",
+				"footer\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/viacodigo/Documentos/practica/index.html",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/viacodigo/Documentos/practica/fotos.html",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/viacodigo/Documentos/practica/sobre-mi.html",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estilos.css",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "Snippe",
+		"selected_items":
+		[
+			[
+				"Snippe",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pa",
+				"Project: Add Folder"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/viacodigo/Documentos/practica/estilos.css",
+		"/home/viacodigo/Documentos/practica/css/.estilos.css.kate-swp",
+		"/home/viacodigo/Documentos/practica/contacto.html",
+		"/home/viacodigo/Documentos/practica/untitled",
+		"/home/viacodigo/Documentos/practica/css/estilos.css",
+		"/home/viacodigo/Documentos/practica/index.html",
+		"/home/viacodigo/Documentos/practica/fotos.html",
+		"/home/viacodigo/Documentos/practica/sobre-mi.html",
+		"/usr/share/applications/sublime_text.desktop",
+		"/home/viacodigo/Documentos/practica/servicio.html",
+		"/home/viacodigo/Documentos/tienda-ropa/css/estilos.css",
+		"/home/viacodigo/Documentos/practica/casa-jpg",
+		"/home/viacodigo/Documentos/practica/images/trabajo-1.jpg",
+		"/home/viacodigo/Documentos/portafolio-imagenes/trabajo-3.jpg",
+		"/home/viacodigo/Documentos/portafolio-imagenes/trabajos.png",
+		"/home/viacodigo/Documentos/practica/images/casa-01.jpg",
+		"/home/viacodigo/Documentos/practica/images/casa-1.jpg",
+		"/home/viacodigo/Documentos/practica/images/sobre-mi.png",
+		"/home/viacodigo/Documentos/practica/images/polo-01.jpg",
+		"/home/viacodigo/Documentos/portafolio-imagenes/casa-1.jpg",
+		"/home/viacodigo/Documentos/practica/images/inicio.png",
+		"/home/viacodigo/Documentos/portafolio-imagenes/trabajo-4.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/images/polo.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/images/polo-03.jpg",
+		"/home/viacodigo/Documentos/practica/images/san-03.jpg",
+		"/home/viacodigo/Imágenes/ropa/polo/polo-05.jpg",
+		"/home/viacodigo/Imágenes/polo-04.jpg",
+		"/home/viacodigo/Imágenes/ropa/polo/.directory",
+		"/home/viacodigo/Documentos/practica/images/chor.jpg",
+		"/boot/initrd.img-4.10.0-27-generic",
+		"/home/viacodigo/Documentos/.directory",
+		"/home/viacodigo/Documentos/tienda-ropa/images/short.jpg",
+		"/home/viacodigo/Imágenes/sandalias/s-l225.jpg",
+		"/home/viacodigo/Imágenes/ropa/polo/polo-06.jpg",
+		"/home/viacodigo/Imágenes/ropa/pantalon/pantalon-02.jpg",
+		"/home/viacodigo/Documentos/ropa/polo-01.jpg",
+		"/home/viacodigo/Imágenes/ropa/medias/medias-05.jpg",
+		"/home/viacodigo/Imágenes/ropa/polo/polo-01.jpg",
+		"/home/viacodigo/Documentos/practica/images/san-02.jpg",
+		"/home/viacodigo/Documentos/2017-09-06 Miércoles - Linking _ Listas + Repaso/img/seleccion/evolucion.png",
+		"/home/viacodigo/Documentos/practica/images/medias-04.jpg",
+		"/home/viacodigo/Documentos/practica/images/san-04.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/index.html",
+		"/home/viacodigo/Documentos/tienda-ropa/images/-",
+		"/home/viacodigo/Documentos/tren/estilos.css",
+		"/home/viacodigo/Documentos/tren/tren.html",
+		"/home/viacodigo/Documentos/tren/css/estilos.css",
+		"/home/viacodigo/Documentos/tren/carro.html",
+		"/home/viacodigo/Documentos/carro/css/index.html",
+		"/home/viacodigo/Documentos/carro/carro.html",
+		"/home/viacodigo/Documentos/carro/css/estilos.css",
+		"/home/viacodigo/Documentos/clinica/testimonio.html",
+		"/home/viacodigo/Documentos/clinica/especialidades.html",
+		"/home/viacodigo/Documentos/clinica/index.html",
+		"/home/viacodigo/Documentos/clinica/contacto.html",
+		"/home/viacodigo/Documentos/clinica/nosotros.html",
+		"/home/viacodigo/Documentos/clinica/doctores.html",
+		"/home/viacodigo/Documentos/clinica/testimonios.html",
+		"/home/viacodigo/Documentos/doctores.html",
+		"/home/viacodigo/Documentos/tienda-ropa/prendas.html",
+		"/home/viacodigo/Documentos/tienda-ropa/telas.html",
+		"/home/viacodigo/Documentos/tienda-ropa/images/telas.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/images/.directory",
+		"/home/viacodigo/Documentos/tienda-ropa/images/polo-05.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/images/polo-04.jpg",
+		"/home/viacodigo/Documentos/gatotel/alimentacion.jpg",
+		"/home/viacodigo/Documentos/tienda-ropa/calidad de telas",
+		"/home/viacodigo/Documentos/tienda-ropa/variedad  de  prendas ",
+		"/usr/share/applications/google-chrome.desktop",
+		"/home/viacodigo/Documentos/gatotel/images/relajo.jpg",
+		"/home/viacodigo/Documentos/gatotel/index.html",
+		"/home/viacodigo/Documentos/gatotel/habitaciones.html",
+		"/home/viacodigo/Documentos/gatotel/prueba.html",
+		"/home/viacodigo/Documentos/gatotel/servicios.html",
+		"/home/viacodigo/Documentos/gatotel/contactos.html",
+		"/home/viacodigo/Documentos/gatotel/r.html",
+		"/home/viacodigo/Documentos/gatotel/images/index.html",
+		"/home/viacodigo/Documentos/deport/estadisticas.html",
+		"/home/viacodigo/Documentos/deport/index.html",
+		"/home/viacodigo/Documentos/tarea-1/jugador.html",
+		"/home/viacodigo/Documentos/deport/jugadores.html",
+		"/home/viacodigo/Documentos/deport/clasicos.html",
+		"/home/viacodigo/Documentos/deport/mundiales.html",
+		"/home/viacodigo/Documentos/deport/clasicos",
+		"/home/viacodigo/Documentos/lp/estructura-basica.html",
+		"/home/viacodigo/Documentos/lp/inicio.html",
+		"/home/viacodigo/Documentos/tarea-1/images/edison-flores.jpeg",
+		"/home/viacodigo/Documentos/elementos-nuevos/felinos-domesticos.html",
+		"/home/viacodigo/Documentos/elementos-nuevos/index.html",
+		"/home/viacodigo/Documentos/tablas/index.html",
+		"/home/viacodigo/Escritorio/mis-apuntes/html-basico.html",
+		"/home/viacodigo/Escritorio/mis-apuntes/index.html",
+		"/home/viacodigo/Escritorio/clase-3/listas",
+		"/home/viacodigo/Escritorio/clase-3/index.html",
+		"/home/viacodigo/Escritorio/mi-primera-pagina-web/historia.html",
+		"/home/viacodigo/Escritorio/clase-3/listas.html",
+		"/home/viacodigo/Escritorio/mi-primera-pagina-web/index.html",
+		"/home/viacodigo/Escritorio/platos-tipicos/costa /parihuela/parihuela.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"/home/viacodigo/Documentos/clínica"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pagina",
+			"f",
+			"<li>",
+			"p",
+			"\n\t",
+			"skyblue:\n}",
+			":\n",
+			"nosotros",
+			"Nosotros",
+			"galeria",
+			"jkuiiii",
+			"camisas",
+			"Chores",
+			"tienda",
+			"j",
+			"DOCTYPE",
+			";\n",
+			"LI",
+			":</",
+			"main",
+			"Edad"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/viacodigo/Documentos/practica/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/viacodigo/Documentos/practica/fotos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/viacodigo/Documentos/practica/sobre-mi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "estilos.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"doctores.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 272.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"pagina"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

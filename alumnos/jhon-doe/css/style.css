@@ -1,0 +1,49 @@
+.header{
+	background-image:url(·..images/logo.png);
+}
+
+h1{
+	text-align: center;
+	background-color: skyblue;
+}
+
+h2{
+	text-align: center;
+
+}
+	
+.menu{
+	background-color: red;
+	text-align: center;
+
+}
+.menu__enlace{
+	display: inline-block;
+	padding: 8px;
+
+}
+.menu__elemento{
+	text-decoration: none;
+	color: white;
+}
+
+}
+.parrafo{
+	width: 800px;
+	padding: 10px
+}
+.caja{
+	display: flex;
+ justify-content: center;
+}
+.blog{
+	display: flex;
+}
+.div_parrafo{
+
+}
+ .linia-1{
+	display: flex;
+    padding: 13px;
+
+}

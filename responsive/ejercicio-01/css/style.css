@@ -1,0 +1,32 @@
+body{
+	background-color: red;
+}
+@media screen and (min-width: 381px){
+
+	body{
+		background-color: yellow;
+	}
+}
+
+@media screen and (min-width: 541px){
+
+	body{
+		Si la pantalla es mayor a 539px el div debe estar al lado derecho del body.
+	4.6 Si la pantalla es mayor a 1024px el div debe estar al lado izquierdo del body.background-color: blue;
+		
+	}
+@media screen and (min-width: 767px){
+	body{
+		background-color: white;
+
+	}
+}
+
+
+
+
+
+
+
+     
+}

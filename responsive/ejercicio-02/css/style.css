@@ -1,0 +1,26 @@
+p{
+	font-size:20px;
+}
+@media screen and(min-width: 768px){
+	p{
+	  font-size:16px;
+
+	}
+}
+div{
+	background-color: red;
+     	   
+}
+}
+ 
+ 
+
+
+	
+	
+		
+		  
+
+	
+
+
